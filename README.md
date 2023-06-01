@@ -2,7 +2,7 @@
 Master thesis of the full title "An Active Learning Approach for Reject Inference in Credit Scoring using Conformal Prediction Intervals on Real and Semi-Artificial Data".
 Full text available as PDF.
 
-**Author:** Maximilian Suliga, business administration student at Humboldt University of Berlin
+**Author:** Maximilian Suliga, Business Administration Student at Humboldt University of Berlin
 
 **First Examinar:** Prof. Dr. Stefan Lessmann
 
