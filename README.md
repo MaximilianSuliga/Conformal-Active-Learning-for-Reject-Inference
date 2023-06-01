@@ -30,7 +30,6 @@ This master thesis investigates the suitability of Active Learning strategies ba
 *  Apart from standard Python libraries, this repository makes use of the nonconformist library (Linusson, 2017)
 
 ## Reproducing Results
-pickle files, notebooks, prepared data, randomness in MC
 * Folders contain python files, notebooks, pickle files and prepared data used in the main experiment
 * Pickle Files generated in a Notebook are available in the folder of the respective notebook
 * Since Monte Carlo simulations do not allow for a random seed, the prepared, partly simulated data is uploaded as well. Rerunning the Monte Carlo simulation is expected to yield at least slightly different simulations due to the underlying randomness.
