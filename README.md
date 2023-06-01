@@ -28,11 +28,11 @@ This master thesis investigates the suitability of Active Learning strategies ba
 *  Use of different Pandas versions: while the Data Preparation requires Pandas 1.5.0 or higher, the Main Experiment requires Pandas 1.3.4 or lower. Two different YAML files are provided, but they differ only in their Pandas version
 *  Apart from standard Python libraries, this repository makes use of the nonconformist library (Linusson, 2017)
 
-# Reproducing Results
+## Reproducing Results
 pickle files, notebooks, prepared data, randomness in MC
 * Folders contain python files, notebooks, pickle files and prepared data used in the main experiment
 * Pickle Files generated in a Notebook are available in the folder of the respective notebook
 * Since Monte Carlo simulations do not allow for a random seed, the prepared, partly simulated data is uploaded as well. Rerunning the Monte Carlo simulation is expected to yield at least slightly different simulations due to the underlying randomness.
 
-# References
+## References
 Linusson, H. (2017). An introduction to conformal prediction. 6th Symp. Conformal and Probabilistic Prediction Appl. Repository available at: https://github.com/donlnz/nonconformist
