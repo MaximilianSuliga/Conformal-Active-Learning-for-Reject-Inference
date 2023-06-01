@@ -13,7 +13,7 @@ Full text available as PDF.
 - [Abstract](#Abstract)
 - [Main Results](#Main-Results)
 - [Dependencies](#Dependencies)
-- [Reproducing results](#Reproducing-results)
+- [Reproducing results](#Reproducing-Results)
 - [References](#References)
 
 
