@@ -11,7 +11,7 @@ Full text available as PDF.
 ## Table of Content
 
 - [Abstract](#Abstract)
-- [Main Results](#Main Results)
+- [Main Results](#Main-Results)
 - [Dependencies](#Dependencies)
 - [Reproducing results](#Reproducing-results)
 - [References](#References)
