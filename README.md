@@ -26,7 +26,7 @@ This master thesis investigates the suitability of Active Learning strategies ba
 
 ## Dependencies
 * Python 3.8
-*  Use of different Pandas versions: while the Data Preparation requires Pandas 1.5.0 or higher, the Main Experiment requires Pandas 1.3.4 or lower. Two different YAML files are provided, but they differ only in their Pandas version
+*  Use of different Pandas versions: while the Data Preparation requires Pandas 1.5.0 or higher, the Main Experiment requires Pandas 1.3.4 or lower. Two different YAML files are provided, but they differ only in their Pandas version (MC for Dataprep, AL for Main Experiment).
 *  Apart from standard Python libraries, this repository makes use of the nonconformist library (Linusson, 2017)
 
 ## Reproducing Results
